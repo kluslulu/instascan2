@@ -1,5 +1,5 @@
 {
-  "name": "instascan2",
+  "name": "instascan-hu",
   "version": "1.0.0",
   "description": "instascan copy",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "instascan"
   ],
-  "author": "huyue",
+  "author": "lucky_hu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kluslulu/instascan2/issues"
